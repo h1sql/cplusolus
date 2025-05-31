@@ -1,0 +1,6 @@
+﻿  pch.cpp
+  dllmain.cpp
+  Dll_sub.cpp
+  正在生成代码...
+    正在创建库 C:\Users\22017\source\repos\main22\x64\Debug\Dllsub.lib 和对象 C:\Users\22017\source\repos\main22\x64\Debug\Dllsub.exp
+  Dll_sub.vcxproj -> C:\Users\22017\source\repos\main22\x64\Debug\Dllsub.dll

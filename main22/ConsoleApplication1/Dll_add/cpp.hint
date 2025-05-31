@@ -1,0 +1,2 @@
+#define DLLADD_API __declspec(dllexport)
+#define DLLADD_API __declspec(dllimport)

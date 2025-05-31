@@ -1,0 +1,6 @@
+﻿  pch.cpp
+  dllmain.cpp
+  DLL_sort.cpp
+  正在生成代码...
+    正在创建库 C:\Users\22017\source\repos\sort\x64\Debug\DLLsort.lib 和对象 C:\Users\22017\source\repos\sort\x64\Debug\DLLsort.exp
+  DLL_sort.vcxproj -> C:\Users\22017\source\repos\sort\x64\Debug\DLLsort.dll

@@ -1,0 +1,2 @@
+#define DLLSORT_API __declspec(dllexport)
+#define DLLSORT_API __declspec(dllimport)
